@@ -1,0 +1,81 @@
+Experts see new roles for artificial intelligence in college admissions process - The Hill
+Goal of institutions: admitted students will reflect school’s standards, grow diversity, and (inspire others to grow?)
+How many applicants does a college receive each year? Total applicants : admitted applicants
+Harvard: 61,220 : 1954
+MIT: 48,577 : 2034
+NYU: 75,037 : 15,722
+UCLA ~ 100,000
+SUNY Binghamton: 41,700
+SUNY Stonybrook: 37,079 : 16,370
+SUNY Cortland: 13,389 : 5,881
+CUNY Hunter: ~32,000 : ~14,600
+Too many applicants to humanly go through. Need AI to make process more efficient.
+Define Algorithmic Bias
+Question: How do you remain gender-bias and race-bias free?
+Traditional models tend to focus more on GPA, SAT and less on humanity. Tend to hurt underprivileged and under-resourced groups, and view underrepresented groups as anomalies
+AI may be coded to follow more traditional models. AI can also be more humanized.
+Kira Talent - Canadian based company that delivers more holistic approaches to reviewing candidates
+Video interview with AI which gauges their leadership potential, communication skills, motivation, professionalism, and comprehension.
+Evaluate admissions officers about their biases. Helps them ask questions such as “did I see or miss these qualities?” Goal: help evaluator become better
+Cautious optimism when implementing AI in evaluation process
+“Summer melt” AI helps students enroll before they can drop out
+
+
+
+
+Artificial Intelligence grading your ‘neuroticism’? Welcome to colleges' new frontier
+Hundreds of colleges subscribe to private platforms that do intensive data analysis about past classes and use it to score applicants for admission on factors such as the likelihood they will enroll, the amount of financial aid they’ll need, the probability they’ll graduate and how likely they are to be engaged alumni.
+A company presentation shows students being scored on a five-point scale in areas such as openness, motivation, agreeableness and “neuroticism.”
+New York University, Southeast Missouri State University and other schools have used a service called Element451, which rates prospects’ potential for success based on how they interact with a school’s website and respond to its messages.
+“conversational AI” to “nudge” accepted applicants into putting down deposits
+But some research suggests that AI tools can be wrong, or even gamed. A team at MIT used a computer to create an essentially meaningless essay that nonetheless included all the prompts an AI essay reader searches for. The AI gave the gibberish a high score.
+“AI alone is not a good judge of human behavior or intention,” said Jarrod Morgan, the founder and chief strategy officer at ProctorU, which schools hire to manage and observe the tests students take online. “We found that people are better at this than machines are, pretty much across the board.”
+AI may be better at handling sheer numbers and can be responsive 24/7. But it can contain errors, if not coded correctly. So we trust humans.
+But even still, humans also make mistakes with biases. And these biases may also be embedded in the code.
+Many people “think AI is smarter than people,” said Wang of Turnitin. “But the AI is us. It’s a mirror that reflects us to us, and sometimes in very exaggerated ways.”
+But the university dropped GRADE last year, agreeing that it had the potential to replicate superficial biases in the scoring — scoring up some applications not because they were good, but because they looked like the kinds of applications that had been approved in the past.
+
+
+Disrupting Algorithms of Oppression PPT slide
+Safiya Umoja Noble, Algorithms of Oppression: How Search Engines Reinforce Racism
+“Where men shape technology, they shape it to the exclusion of women, especially Black women.”
+“We need people designing technologies for society to have training and an education on the histories of marginalized people, at a minimum, and we need them working alongside people with rigorous training and preparation from the social sciences and humanities.”
+“some of the very people who are developing search algorithms and architecture are willing to promote sexist and racist attitudes openly at work and beyond, while we are supposed to believe that these same employees are developing “neutral” or “objective” decision-making tools.”
+The lack of a diverse and critically minded workforce on issues of race and gender in Silicon Valley impacts its intellectual output.”
+“The implications of such marginalization are profound. The insights about sexist and racist biases... are important because information organizations, from libraries to schools and universities to governmental agencies, are increasingly reliant on being displaced by a variety of web-based "tools" as if there are no political, social, or economic consequences of doing so.”
+
+
+Analyzing students’ attendance activity
+
+
+
+Machine Learning & Algorithmic Bias — A High-School Lesson Plan
+
+Underrepresentation is one of the most common sources of bias in machine learning algorithms. If the data the model is trained on is missing samples from one group, it certainly will not perform equally well for those groups. This is the reason voice assistants have trouble understanding accents. It is also the reason for the above mentioned Amazon recruiting bias against women.
+Amazon trained an AI recruitment tool only to discover that it is biased against females by discounting any time a resume mentions “women’s” as in “women’s college” or “caption of women’s soccer.” Why? Because the tool is trained on historical data, in other words, resumes from past hiring decisions that skew heavily male.
+
+
+Unfairness and Bias in Data - Lesson Plan
+
+
+
+Overwhelmed Colleges Welcome Support from Bolt, an Intelligent Admissions Engine from Element451
+Bolt uses behavioral data, which is 20 times more predictive than artificial intelligence that relies on demographics alone.
+"Behavioral data is a better predictor of where a candidate is at now and the actions and decisions they'll make in the future. Demographic and historical information is more backward looking,"  says Bonilla.
+ 
+AI in Admissions Can Reduce or Reinforce Biases
+A program, for example, could find high schools in marginalized communities that a university has not reached out to historically. That way offices can recruit more students from underrepresented backgrounds.
+anonymizing student information with AI can help reduce subconscious human biases in reviewers.
+That coded inequality could come up when assessing curricular rigor for a student despite needs-blind admissions. If the student attends a lesser-resourced high school without as many advanced placement classes, then curricular rigor would appear differently than a student at a wealthy high school with several advanced classes. 
+“That’s the hard part of saying that AI is all good or all bad. It’s not neutral,” said Martin. “When you’re deploying it, you need to be thoughtful about how you’re deploying it.” 
+Something that has been quantified into a dataset doesn’t mean that it wasn’t created in a biased or discriminatory way, added Martin. “We sometimes call data ‘objective,’ but that is not appropriate. Really data is easily quantifiable information," she said. "It is not objective to look at GPAs, for instance.”
+
+
+Amazon scraps secret AI recruiting tool that showed bias against women
+That is because Amazon’s computer models were trained to vet applicants by observing patterns in resumes submitted to the company over a 10-year period. Most came from men, a reflection of male dominance across the tech industry.
+In effect, Amazon’s system taught itself that male candidates were preferable. It penalized resumes that included the word “women’s,” as in “women’s chess club captain.” And it downgraded graduates of two all-women’s colleges, according to people familiar with the matter. They did not specify the names of the schools.
+“The group created 500 computer models focused on specific job functions and locations. They taught each to recognize some 50,000 terms that showed up on past candidates’ resumes. The algorithms learned to assign little significance to skills that were common across IT applicants, such as the ability to write various computer codes, the people said.”
+Instead, the technology favored candidates who described themselves using verbs more commonly found on male engineers’ resumes, such as “executed” and “captured,” one person said.
+Gender bias was not the only issue. Problems with the data that underpinned the models’ judgments meant that unqualified candidates were often recommended for all manner of jobs, the people said. With the technology returning results almost at random, Amazon shut down the project, they said.
+Kevin Parker, chief executive of HireVue, a startup near Salt Lake City, said automation is helping firms look beyond the same recruiting networks upon which they have long relied. His firm analyzes candidates’ speech and facial expressions in video interviews to reduce reliance on resumes.
+“We are increasingly focusing on algorithmic fairness as an issue,” said Rachel Goodman, a staff attorney with the Racial Justice Program at the ACLU.
